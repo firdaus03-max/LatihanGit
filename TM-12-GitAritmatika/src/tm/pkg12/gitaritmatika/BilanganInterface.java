@@ -6,7 +6,7 @@ package tm.pkg12.gitaritmatika;
 
 /**
  *
- * @author RADIKVEGAR
+ * @author M.R.FIRDAUS
  */
 
 
@@ -14,5 +14,5 @@ public interface BilanganInterface {
     public double add(Bilangan bilangan);
     public double sub(Bilangan bilangan);
     public double mult(Bilangan bilangan);
-
+    public double div(Bilangan bilangan);
 }
