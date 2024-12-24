@@ -22,7 +22,7 @@ public class BilanganInterfaceImpl implements BilanganInterface {
 
     @Override
     public double mult(Bilangan bilangan) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return bilangan.getBilangan1() * bilangan.getBilangan2();
     }
 
     @Override
