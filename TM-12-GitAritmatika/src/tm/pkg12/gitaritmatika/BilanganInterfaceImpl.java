@@ -8,6 +8,6 @@ package tm.pkg12.gitaritmatika;
  *
  * @author M.R.FIRDAUS
  */
-public class TM12GITAritmatika {
+public class BilanganInterfaceImpl {
     
 }
