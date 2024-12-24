@@ -6,7 +6,7 @@ package tm.pkg12.gitaritmatika;
 
 /**
  *
- * @author M.R.FIRDAUS
+ * @author RADIKVEGAR
  */
 
 
